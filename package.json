@@ -1,0 +1,27 @@
+{
+  "name": "gulp-webpack",
+  "version": "1.0.0",
+  "description": "template for easy start website project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jorikkornev/gulp-template.git"
+  },
+  "keywords": [
+    "gulp",
+    "webpack",
+    "pug",
+    "sass",
+    "html",
+    "css"
+  ],
+  "author": "Jorik Kornev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jorikkornev/gulp-template/issues"
+  },
+  "homepage": "https://github.com/Jorikkornev/gulp-template#readme"
+}
